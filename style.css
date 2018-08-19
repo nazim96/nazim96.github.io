@@ -1,0 +1,47 @@
+body{
+	height: 1000px;
+}
+
+.container{
+	width: 1170px;
+	margin:auto;
+}
+
+ .silder{
+	height: 592px;
+	
+}
+.silder img {
+	width: 100%;
+	height: 592px;
+}
+
+ .navbar{
+background-color: #252e30;
+color:#fff;
+overflow: hidden;
+
+}
+.navbar span{
+	color: #2ecc71;
+}
+
+.navbar h2{
+	float:left;
+	text-transform: uppercase;
+}
+.navbar ul{
+	list-style: none;
+	padding-left: 0;
+	overflow: hidden;
+	float: right;
+	padding-right: 5px;
+	padding-top: 16px;
+
+}
+.navbar ul li {
+	float:left;
+	padding: 10px;
+
+
+}
